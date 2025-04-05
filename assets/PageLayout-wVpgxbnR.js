@@ -1,0 +1,1 @@
+import{_ as t,t as n}from"./VContainer-27DPJaY0.js";import{H as o,J as a,h as s,L as r,aP as c}from"./index-BrTml2Fb.js";const _={},d={class:"page-container"};function i(e,l){return a(),o("div",d,[s(n,null,{default:r(()=>[c(e.$slots,"default",{},void 0,!0)]),_:3})])}const u=t(_,[["render",i],["__scopeId","data-v-06c2677b"]]);export{u as _};
